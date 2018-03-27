@@ -1,4 +1,4 @@
-package pl.narodzinyprogramisty.proxy;
+package pl.narodzinyprogramisty.Proxy;
 
 public class ErrorCardValidateException extends Exception {
     public ErrorCardValidateException(){

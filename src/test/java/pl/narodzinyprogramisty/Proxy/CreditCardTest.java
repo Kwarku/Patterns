@@ -1,4 +1,4 @@
-package pl.narodzinyprogramisty.proxy;
+package pl.narodzinyprogramisty.Proxy;
 
 import org.junit.Before;
 import org.junit.Rule;

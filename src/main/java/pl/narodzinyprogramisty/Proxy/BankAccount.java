@@ -1,4 +1,4 @@
-package pl.narodzinyprogramisty.proxy;
+package pl.narodzinyprogramisty.Proxy;
 
 public class BankAccount implements BankOperation{
     private String cardId;

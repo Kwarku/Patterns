@@ -4,7 +4,7 @@ import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
-import pl.narodzinyprogramisty.strategy.PayPalStrategy;
+import pl.narodzinyprogramisty.Strategy.PayPalStrategy;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

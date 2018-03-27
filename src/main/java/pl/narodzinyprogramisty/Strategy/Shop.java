@@ -1,4 +1,4 @@
-package pl.narodzinyprogramisty.strategy;
+package pl.narodzinyprogramisty.Strategy;
 
 public class Shop {
 
