@@ -1,4 +1,4 @@
-package pl.narodzinyprogramisty;
+package pl.narodzinyprogramisty.prototype;
 
 public abstract class Shape implements Cloneable {
     private String id;

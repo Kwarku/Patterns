@@ -1,4 +1,4 @@
-package pl.narodzinyprogramisty;
+package pl.narodzinyprogramisty.prototype;
 
 public class Square extends Shape {
     public Square() {

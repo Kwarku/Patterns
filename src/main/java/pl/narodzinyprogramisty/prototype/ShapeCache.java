@@ -1,4 +1,4 @@
-package pl.narodzinyprogramisty;
+package pl.narodzinyprogramisty.prototype;
 
 import java.util.Hashtable;
 

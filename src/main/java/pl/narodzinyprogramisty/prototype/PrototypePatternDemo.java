@@ -1,4 +1,4 @@
-package pl.narodzinyprogramisty;
+package pl.narodzinyprogramisty.prototype;
 /**
  * Prototype Pattern
  * Prototype pattern refers to creating duplicate object while keeping performance in mind.
